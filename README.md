@@ -6,7 +6,11 @@
 
 但是验证速度和命中太差，求大神优化 ^_^
 
-
+参考：<br/>
+http://drops.wooyun.org/tips/141
+<br/>
+http://blog.csdn.net/ugg/article/details/3972368
+<br/>
 <h2>图示：</h2>
 <p>
     <img src="http://www.leipi.org/wp-content/uploads/2014/12/20150101155312.jpg">
