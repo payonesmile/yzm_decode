@@ -11,10 +11,7 @@ http://drops.wooyun.org/tips/141
 <br/>
 http://blog.csdn.net/ugg/article/details/3972368
 <br/>
-<h2>图示：</h2>
-<p>
-    <img src="http://www.leipi.org/wp-content/uploads/2014/12/20150101155312.jpg">
-</p>
+
 <h2>联系：</h2>
 网站：http://www.leipi.org/<br/>
 Q群：143263697
